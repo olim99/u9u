@@ -1,0 +1,22 @@
+body{
+    background-color: rgb(31, 30, 30);
+    margin: 0 auto;
+    color: aliceblue;
+}
+button{
+    width: 100px;
+    height: 60px;
+    background-color: rgb(99, 96, 96);
+    border-radius: 20px;
+    border: none;
+
+}
+.e2{
+    width: 50px;
+    height: 50px;
+}
+.homyak{
+    position: relative;
+    left: 700px;
+    font-size: 80px;
+}
